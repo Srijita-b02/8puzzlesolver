@@ -19,7 +19,15 @@ Breadth First Search (BFS) — FIFO queue frontier, explored set, early goal tes
 BFS is uninformed and uses no heuristic. Misplaced Tiles and Manhattan Distance are used only by GBFS / A* on the comparison page.
 
 ## Screenshots
-Add screenshots here (e.g. `images/solver.png`).
+![alt text](homepage1.png)
+![alt text](homepage2.png)
+![alt text](studentsdetails.png)
+![alt text](puzzlesolver1.png)
+![alt text](puzzlesolver2.png)
+![alt text](puzzlesolver3.png)
+![alt text](algocomparison1.png)
+![alt text](algocomparison2.png)
+![alt text](algotheory.png)
 
 ## How to Run the Project
 Prerequisite: Node.js 20+
