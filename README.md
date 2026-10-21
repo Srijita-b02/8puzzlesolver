@@ -1,4 +1,4 @@
-# AI-8Puzzle-Visualizer (8 Puzzle Solver)
+# AI 8Puzzle solver using BFS
 
 Interactive 8-Puzzle solver that visualizes the **Breadth First Search (BFS)** state-space search algorithm.
 
@@ -6,8 +6,7 @@ Interactive 8-Puzzle solver that visualizes the **Breadth First Search (BFS)** s
 - **Assignment:** Interactive 8-Puzzle Problem Solver using AI Search Algorithms
 - **Student:** Srijita Bhuniye
 - **Registration Number:** 24BDS0368
-- **Live site (GitHub Pages):**(https://github.com/Srijita-b02/8puzzlesolver)
-
+- **Live site (GitHub Pages):- https://srijita-b02.github.io/8puzzlesolver/
 ## Technologies Used
 HTML5, CSS3, JavaScript (ES6), React, Vite, Tailwind CSS, lucide-react (icons), canvas-confetti.
 
@@ -47,4 +46,4 @@ Publish the contents of the `dist` folder with GitHub Pages.
 ## References
 - Russell & Norvig, *Artificial Intelligence: A Modern Approach* (search algorithms)
 - React, Vite, Tailwind CSS, lucide-react, canvas-confetti documentation
-- Code was generated with AI assistance (Google AI Studio) and reviewed/understood by the student. <edit as appropriate>
+- Code was generated with AI assistance Google AI Studio, claude and reviewed by me.
